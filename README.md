@@ -1,0 +1,2 @@
+# ClikerHeroBot
+Cliker hero bot
